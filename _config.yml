@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fun Code
-subtitle: 'Coding 是一种乐趣'
-description: ''
-keywords:
-author: Alex Tan
-language: zh-CN
-timezone: ''
+title: Fun Code 
+# subtitle: Coding Fun
+description: Javascript 
+keywords: '' 
+author: Alex Tan 
+language: zh-CN 
+timezone: '' 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
